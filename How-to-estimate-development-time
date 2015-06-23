@@ -8,6 +8,11 @@ Estimation of development time is essential to managing a successful development
 In addition, there a few tips & tricks for making good estimates:
 •	The estimate does not have to be 100% accurate. In fact, if it is 100% accurate you’ve probably spent too much time on it. The key is to keep your relative margin of error within range. 
 •	Adjust your units according to your time range. The Pragmatic Programmer gives the following recommendation:
-	 
+	 1-15 days --> estimate in days
+	 3-8 weeks --> estimate in weeks
+	 8-30 weeks --> estimate in months
+	 30+ weeks --> think hard before giving an estimate
 •	If possible, ask someone that has done the task (or a comparable one) before
 •	Keep track of your estimating skills to continue to learn
+
+![](https://s3.amazonaws.com/lowres.cartoonstock.com/diy-plumber-plumbing-dodgy_pipe-pipes-estimate-dro0797_low.jpg)
