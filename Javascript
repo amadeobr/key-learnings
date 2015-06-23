@@ -1,0 +1,4 @@
+I learned that Javescript is both front end and back end, and also learned what front end and back end mean.  
+Those were two terms I had heard a lot but didn't understand.  Front end is the consumer facing aspect of a 
+website or app, back end is the non consumer facing aspect that feeds the front end, 
+it's where the business logic is.
