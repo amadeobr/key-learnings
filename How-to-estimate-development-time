@@ -1,0 +1,13 @@
+Estimation of development time is essential to managing a successful development process and maintaining a good relationship between client and programmers. Typically, a robust estimate takes the following steps:
+1.	Clarify the ask to make sure you understand what the client is asking for
+2.	Build a model of the system to understand the complexity of the mechanics; either sketched or mental
+3.	Break the model into components
+4.	Give each component a value, focusing on the most critical ones
+5.	Calculate the answer, potentially with a range
+
+In addition, there a few tips & tricks for making good estimates:
+•	The estimate does not have to be 100% accurate. In fact, if it is 100% accurate you’ve probably spent too much time on it. The key is to keep your relative margin of error within range. 
+•	Adjust your units according to your time range. The Pragmatic Programmer gives the following recommendation:
+	 
+•	If possible, ask someone that has done the task (or a comparable one) before
+•	Keep track of your estimating skills to continue to learn
