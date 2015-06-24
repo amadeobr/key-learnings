@@ -1,0 +1,3 @@
+User stories: "As a <role>, I want <feature>, so that <benefit>"
+3Cs: Card, Conversation, Confirmation
+Behavior driven development: Given, When, Then
