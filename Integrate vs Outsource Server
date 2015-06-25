@@ -1,0 +1,5 @@
+I was surprised by the idea that it usually only makes sense for a company to roll out its own server infrastructure when 
+it is very very large. I had the impression that Amazon Web Services and similar services were useful when you were a small 
+startup, but that it soon made sense to integrate this critical part of your system. Security risk was something that I was 
+especially concerned about, but I was convinced by the Prof's argument that your risk is usually much higher if you run it in
+house. 
